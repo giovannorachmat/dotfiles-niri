@@ -1,0 +1,6 @@
+workspace "code" { }
+workspace "browse" { }
+workspace "chats" { }
+workspace "meetings" { }
+workspace "misc" { }
+workspace "personal" { }

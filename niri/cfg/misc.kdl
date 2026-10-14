@@ -1,0 +1,21 @@
+prefer-no-csd
+
+config-notification {
+    disable-failed
+}
+
+hotkey-overlay {
+    skip-at-startup
+}
+
+gestures {
+  hot-corners {
+    off
+  }
+}
+
+debug {
+  honor-xdg-activation-with-invalid-serial
+}
+
+screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
